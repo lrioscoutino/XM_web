@@ -1,0 +1,2 @@
+def elminar:
+    print("ASDSADSA")
